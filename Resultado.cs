@@ -127,3 +127,23 @@ public class ejercicio10
         }
     }
 }
+
+public class Todo
+{
+    public void TodoJunto (List<Videojuego> videojuegos, List<Estudiante> estudiantes, List<Equipo> equipos)
+    {
+        var resultado = equipos
+    .Where(e => e.GolesFavor > e.GolesContra)
+    .OrderByDescending(e => e.Puntos)
+    .Select(e => new
+    {
+        e.Nombre,
+        DiferenciaGol = e.GolesFavor - e.GolesContra
+    });
+
+foreach (var item in resultado)
+{
+    Console.WriteLine($"{item.Nombre} - DG: {item.DiferenciaGol}");
+}
+    }
+}

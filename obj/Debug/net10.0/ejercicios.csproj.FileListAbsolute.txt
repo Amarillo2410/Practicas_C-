@@ -12,3 +12,4 @@ C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\refint\e
 C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.pdb
 C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.genruntimeconfig.cache
 C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ref\ejercicios.dll
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.sourcelink.json

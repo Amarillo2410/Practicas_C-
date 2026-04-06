@@ -83,3 +83,8 @@ resultado9.MejorEstudiante(estudiantes);
 Console.WriteLine("\n=== ESTUDIANTES AGRUPADOS POR CURSO ===");
 var resultado10 = new ejercicio10();
 resultado10.EstudiantePorCurso(estudiantes);
+
+//Todo junto
+Console.WriteLine("\n=== TODO JUNTO ===");
+var Final = new Todo();
+Final.TodoJunto(videojuegos, estudiantes, equipos);
