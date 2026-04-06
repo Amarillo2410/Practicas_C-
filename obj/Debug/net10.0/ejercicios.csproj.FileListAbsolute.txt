@@ -1,0 +1,14 @@
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\bin\Debug\net10.0\ejercicios.exe
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\bin\Debug\net10.0\ejercicios.deps.json
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\bin\Debug\net10.0\ejercicios.runtimeconfig.json
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\bin\Debug\net10.0\ejercicios.dll
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\bin\Debug\net10.0\ejercicios.pdb
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.AssemblyInfoInputs.cache
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.AssemblyInfo.cs
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.dll
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\refint\ejercicios.dll
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.pdb
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ejercicios.genruntimeconfig.cache
+C:\Users\amari\OneDrive\Documents\C#\LinkQ\ejercicios\obj\Debug\net10.0\ref\ejercicios.dll
